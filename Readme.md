@@ -1,2 +1,2 @@
-# LeetCode-Problems
-Personal notes. 
+# LeetCode-Notes
+Notes on LeetCode problems.  
